@@ -1,0 +1,13 @@
+{
+  "name": "online-music-player",
+  "version": "1.0.0",
+  "private": true,
+  "description": "在线听歌 - 多音源代理服务（网易云 / 酷我 / 酷狗 / QQ音乐 / JOOX）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
